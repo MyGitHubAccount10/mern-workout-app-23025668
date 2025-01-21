@@ -4,7 +4,6 @@ import mongoose from 'mongoose';
 import workoutRoutes from './routes/workouts.js'; // Ensure to include the .js extension
 import cors from 'cors';
 
-const cors = require("cors");
 // Express app
 const app = express();
 
